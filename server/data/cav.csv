@@ -1,0 +1,115 @@
+﻿Mil Tech;Unit group;Name;Fire Off;Fire Def;Shock Off;Shock Def;Morale Off;Morale Def;Total Pips
+6;Aboriginal;Aboriginal Horsemen;0;0;2;1;1;1;5
+10;Aboriginal;Aboriginal Cavalry;0;1;3;2;2;2;10
+14;Aboriginal;Aboriginal Hussar;1;1;3;2;3;2;12
+18;Aboriginal;Aboriginal Swarm Cavalry;1;2;3;3;3;2;14
+23;Aboriginal;Aboriginal Dragoon;2;2;3;3;4;4;18
+1;African;Abyssinian Light Cavalry;0;0;1;1;2;0;4
+1;African;Mandekalu Cavalry;0;0;1;1;1;1;4
+6;African;Somali Light Cavalry;0;0;2;1;1;2;6
+6;African;Tuareg Cavalry;0;0;2;1;2;1;6
+10;African;Abyssinian Barded Cavalry;0;0;3;2;3;2;10
+10;African;Mossi Horsemen;0;0;2;2;3;3;10
+14;African;African Hussar;1;0;3;2;3;3;12
+17;African;African Swarm Cavalry;0;1;4;3;3;2;13
+23;African;African Dragoon;1;1;3;3;4;4;16
+28;African;African Cuirassier;1;1;4;4;4;4;18
+1;Anatolian;Musellem Cavalry;0;0;2;1;1;1;5
+6;Anatolian;Timariot Cavalry;0;0;2;1;2;1;6
+10;Anatolian;Spahi Cavalry;0;0;3;2;3;2;10
+18;Anatolian;Reformed Spahi Cavalry;1;1;3;3;3;3;14
+23;Anatolian;Toprakli Hit and Run Cavalry;2;0;4;3;4;3;16
+26;Anatolian;Eastern Skirmisher;1;2;4;3;4;3;17
+26;Anatolian;Eastern Uhlan;2;1;3;4;4;3;17
+28;Anatolian;Reformed Lancer;1;1;5;3;5;3;18
+28;Anatolian;Toprakli Dragoons;2;2;3;3;4;4;18
+1;Chinese;Archer Cavalry;0;0;0;1;1;1;3
+1;Chinese;East Asian Archer Cavalry;0;0;1;0;1;1;3
+6;Chinese;Asian Steppe Cavalry;0;0;2;2;1;1;6
+6;Chinese;Samurai Cavalry;0;0;2;1;2;1;6
+10;Chinese;Reformed Asian Steppe Cavalry;1;0;2;2;2;2;9
+14;Chinese;Asian Charge Cavalry;0;1;3;2;3;3;12
+17;Chinese;Banner Cavalry;1;1;3;3;3;3;14
+23;Chinese;Asian Dragoons;1;2;3;3;4;3;16
+28;Chinese;Green Standard Cavalry;2;1;4;4;4;4;19
+28;Chinese;Reformed Asian Cavalry;1;2;5;4;3;4;19
+1;Eastern;Druzhina Cavalry;0;0;0;1;1;1;3
+1;Eastern;Eastern Knights;0;0;1;0;1;1;3
+6;Eastern;Stratioti Cavalry;0;0;2;1;1;1;5
+10;Eastern;Eastern Hussar;0;0;2;2;3;2;9
+14;Eastern;Eastern Caracole;2;0;2;2;3;3;12
+14;Eastern;Reformed Eastern Hussars;1;1;3;3;2;2;12
+14;Eastern;Southern Cossacks;0;1;4;2;2;3;12
+22;Eastern;Cossack Cavalry;1;1;4;3;4;4;17
+22;Eastern;Winged Hussars;0;1;5;4;4;3;17
+26;Eastern;Lancers;0;1;5;4;4;4;18
+26;Eastern;Reformed Cossack Cavalry;1;1;4;4;4;4;18
+28;Eastern;Advanced Cossack Cavalry;2;1;4;4;5;4;20
+28;Eastern;Eastern Cuirassiers;1;2;5;4;4;4;20
+6;High American;American Horsemen;1;0;2;1;1;1;6
+10;High American;Xiuhtecuhtli Cavalry;2;1;3;2;2;2;12
+14;High American;American Hussar;2;2;3;2;3;2;14
+19;High American;American Swarm Cavalry;3;2;3;3;3;2;16
+23;High American;American Dragoon;4;2;3;3;4;4;20
+1;Indian;Elephant Archers;0;0;1;0;1;1;3
+1;Indian;Indian Cavalry;0;0;0;1;1;1;3
+6;Indian;Indian Cavalry Archers;0;0;2;2;1;1;6
+10;Indian;Mansabdar Cavalry;1;0;3;2;2;2;10
+14;Indian;Dai-Phat Cavalry;2;0;2;3;3;2;12
+17;Indian;Maratha Raiders;0;2;4;3;3;2;14
+23;Indian;Deccani Light Cavalry;1;1;4;3;4;3;16
+28;Indian;Mysorean Light Cavalry;2;1;4;4;3;4;18
+28;Indian;Sowars;1;2;4;4;4;3;18
+1;Muslim;Charge Cavalry;0;0;2;0;1;1;4
+1;Muslim;Muslim Cavalry;0;0;1;0;2;1;4
+1;Muslim;Muslim Cavalry Archers;0;0;1;1;1;1;4
+6;Muslim;Shayhanid Cavalry;0;0;2;1;1;2;6
+10;Muslim;Qizilbash Cavalry;0;0;2;2;3;2;9
+14;Muslim;Muslim Musketeer Cavalry;1;0;2;2;3;2;10
+18;Muslim;Afsharid Reformed Cavalry;0;1;4;3;3;3;14
+18;Muslim;Musket Charge Cavalry;1;1;4;3;3;2;14
+23;Muslim;Ali Bey Reformed Cavalry;2;1;4;3;4;3;17
+23;Muslim;Muslim Dragoon;1;2;3;4;3;4;17
+28;Muslim;Durrani Cavalry;2;1;5;3;4;4;19
+28;Muslim;Durrani Swivel Cavalry;1;2;4;5;4;3;19
+6;North American;North American Horsemen;0;0;2;1;1;1;5
+10;North American;North American Cavalry;0;1;3;2;2;2;10
+14;North American;North American Hussar;1;1;3;2;3;2;12
+19;North American;North American Swarm Cavalry;1;2;3;3;3;2;14
+23;North American;North American Dragoon;2;2;3;3;4;4;18
+6;South American;North American Horsemen;0;0;2;1;1;1;5
+10;South American;North American Cavalry;0;1;3;2;2;2;10
+14;South American;North American Hussar;1;1;3;2;3;2;12
+19;South American;North American Swarm Cavalry;1;2;3;3;3;2;14
+23;South American;North American Dragoon;2;2;3;3;4;4;18
+6;Mesoamerican;North American Horsemen;0;0;2;1;1;1;5
+10;Mesoamerican;North American Cavalry;0;1;3;2;2;2;10
+14;Mesoamerican;North American Hussar;1;1;3;2;3;2;12
+19;Mesoamerican;North American Swarm Cavalry;1;2;3;3;3;2;14
+23;Mesoamerican;North American Dragoon;2;2;3;3;4;4;18
+1;Nomad;Eastern Steppe Cavalry;0;0;1;1;2;2;6
+1;Nomad;Eastern Swarm Cavalry;0;0;2;1;2;1;6
+10;Nomad;Steppe Riders;0;0;3;2;3;2;10
+14;Nomad;Steppe Lancers;0;0;3;3;3;3;12
+18;Nomad;Mounted Steppe Raiders;0;1;3;3;3;3;13
+23;Nomad;Steppe Cavalry;1;1;4;3;3;3;15
+28;Nomad;Steppe Uhlans;1;1;5;4;4;3;18
+6;Polynesian;Polynesian Horsemen;0;0;2;1;1;1;5
+10;Polynesian;Polynesian Cavalry;0;1;3;2;2;2;10
+14;Polynesian;Polynesian Hussar;1;1;3;2;3;2;12
+18;Polynesian;Polynesian Swarm Cavalry;1;2;3;3;3;2;14
+23;Polynesian;Polynesian Dragoon;2;2;3;3;4;4;18
+1;Western;Chevauchée;0;0;1;1;1;0;3
+1;Western;Western Medieval Knights;0;0;1;0;1;1;3
+10;Western;Schwarze Reiter;1;0;2;1;2;2;8
+14;Western;Latin Caracole Cavalry;1;0;3;2;2;2;10
+18;Western;Gallop Cavalry;1;1;4;3;3;3;15
+23;Western;Armee Blanche Cavalry;1;1;5;3;5;3;18
+23;Western;Latin Dragoons;1;1;4;4;4;4;18
+23;Western;Latin Hussars;1;2;4;3;4;4;18
+26;Western;Carabiners;2;1;5;4;3;4;19
+26;Western;Reformed Latin Hussars;1;2;4;4;4;4;19
+26;Western;Uhlan Cavalry;1;2;5;4;4;3;19
+28;Western;Latin Chasseur;2;1;4;4;5;5;21
+28;Western;Latin Cuirassiers;1;2;5;4;4;5;21
+28;Western;Latin Lancers;0;2;6;4;5;4;21

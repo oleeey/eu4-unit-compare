@@ -1,0 +1,172 @@
+﻿Mil Tech;Unit group;Name;Fire Off;Fire Def;Shock Off;Shock Def;Morale Off;Morale Def;Total Pips
+1;Aboriginal;Aboriginal Spearman;0;0;2;0;1;0;3
+1;Aboriginal;Boomerang Hunter;0;0;0;1;0;2;3
+5;Aboriginal;Aboriginal Ambusher;0;0;1;2;1;2;6
+5;Aboriginal;Reformed Boomerang Warrior;0;0;1;1;2;2;6
+5;Aboriginal;Ritual Warrior;0;0;3;2;1;0;6
+10;Aboriginal;Outback Warriors;0;0;1;2;2;3;8
+14;Aboriginal;Ambush Arquebusier;1;2;1;3;2;3;12
+14;Aboriginal;Offensive Arquebusier;2;1;3;2;2;2;12
+19;Aboriginal;Frontier Riflemen;4;2;3;2;3;2;16
+26;Aboriginal;Black War Infantry;4;3;4;4;4;3;22
+1;African;African Clubmen;0;0;1;0;1;1;3
+1;African;African Spearmen;0;0;0;1;1;1;3
+5;African;Central African Warrior;0;0;1;1;2;2;6
+5;African;North African Warrior;0;0;2;2;1;1;6
+5;African;South African Warrior;0;0;2;1;2;1;6
+5;African;West African Warrior;0;0;1;2;1;2;6
+12;African;African Forest Warriors;1;1;2;2;2;2;10
+12;African;African Hill Warriors;2;1;1;2;2;2;10
+12;African;African Mountain Warriors;1;2;2;2;1;2;10
+12;African;African Plains Warriors;2;1;2;2;2;1;10
+15;African;Central African Musketeers;3;2;2;2;2;2;13
+15;African;East African Musketeers;2;2;2;2;2;3;13
+15;African;North African Musketeers;2;3;2;3;1;2;13
+15;African;South African Musketeers;3;2;3;2;2;1;13
+23;African;Central African Guerrillas;3;2;2;3;3;2;15
+23;African;East African Guerrillas;3;3;2;2;2;3;15
+23;African;North African Guerrillas;2;3;2;3;2;3;15
+26;African;Westernized Central African Infantry;3;3;3;3;4;3;19
+26;African;Westernized East African Infantry;4;4;2;2;3;4;19
+26;African;Westernized North African Infantry;3;4;2;4;3;3;19
+26;African;Westernized South African Infantry;4;3;3;3;3;3;19
+30;African;African Western Franchise Infantry;3;3;3;3;4;4;20
+1;Anatolian;Yaya Infantry;0;0;1;0;1;1;3
+5;Anatolian;Azab Infantry;0;0;1;1;2;1;5
+9;Anatolian;Janissary Infantry;1;0;1;1;2;2;7
+12;Anatolian;Sekban Infantry;2;2;2;1;2;3;12
+19;Anatolian;Reformed Janissary Infantry;2;2;2;2;3;2;13
+23;Anatolian;Nizami Cedid Infantry;2;3;2;2;3;3;15
+26;Anatolian;Eastern Carabinier;4;3;3;3;3;3;19
+30;Anatolian;Eastern New Model Infantry;3;3;3;3;4;4;20
+1;Chinese;Asian Longbow;0;0;1;0;0;1;2
+1;Chinese;Asian Longspear;0;0;0;1;0;1;2
+1;Chinese;East Asian Spearmen;0;0;0;1;1;0;2
+5;Chinese;Defensive Asian Footsoldier;0;0;1;1;1;1;4
+5;Chinese;Offensive Asian Footsoldier;0;0;1;0;2;1;4
+9;Chinese;Asian Arquebusier;1;1;1;1;1;1;6
+12;Chinese;Banner Infantry;1;2;2;1;2;2;10
+15;Chinese;Asian Mass Infantry;3;2;2;2;2;2;13
+19;Chinese;Asian Musketeer;3;3;2;2;3;2;15
+26;Chinese;Reformed Asian Musketeer;4;4;3;3;3;3;20
+1;Eastern;Bardiche Infantry;0;0;0;0;1;1;2
+1;Eastern;Eastern Medieval Infantry;0;0;1;0;1;0;2
+5;Eastern;Eastern Militia;0;0;1;1;1;1;4
+9;Eastern;Pike Infantry;0;0;1;2;1;2;6
+12;Eastern;Defensive Eastern Musketeers;2;2;1;2;2;2;11
+12;Eastern;Offensive Eastern Musketeers;2;1;2;1;3;2;11
+15;Eastern;Eastern Tercio;2;2;1;2;2;3;12
+15;Eastern;Soldaty Infantry;3;1;2;1;3;2;12
+19;Eastern;Saxon Infantry;3;2;3;2;2;2;14
+23;Eastern;Petrine Infantry;2;3;2;3;3;3;16
+26;Eastern;Green Coat Infantry;3;3;3;3;4;4;20
+30;Eastern;Mass Infantry;4;3;4;3;4;3;21
+1;High American;Xantican Warrior;1;1;0;1;1;0;4
+5;High American;Reformed Xantican Warrior;2;1;1;1;2;0;7
+9;High American;Xiuhtecuhtli Soldier;3;2;1;1;3;2;12
+12;High American;Xiuhtecuhtlian Infantry;3;3;2;1;4;3;16
+18;High American;Xoloti;3;3;2;2;4;2;16
+23;High American;Foreign Influenced Infantry;4;3;2;2;4;3;18
+26;High American;Reformed Influenced Infantry;4;4;3;3;4;3;21
+30;High American;Reformed Xoloti;4;4;4;3;4;3;22
+1;Indian;Indian Footsoldier;0;0;1;0;1;1;3
+5;Indian;Indian Arquebusier;1;0;1;1;1;0;4
+9;Indian;Poligar Infantry;1;2;1;1;1;1;7
+9;Indian;Toofangchis;1;1;1;1;2;1;7
+12;Indian;Akbarid Musketeers;2;2;1;2;2;2;11
+12;Indian;South Indian Infantry;2;1;2;1;3;2;11
+18;Indian;Deccani Musket Infantry;3;3;2;2;2;2;14
+18;Indian;North Indian Musket Infantry;3;2;2;2;3;2;14
+23;Indian;Telingas;4;3;2;2;2;3;16
+26;Indian;North Indian Sepoy;3;3;3;3;3;4;19
+30;Indian;Indian Drill Infantry;4;3;3;3;4;3;20
+1;Muslim;Muslim Archer;0;0;1;1;0;1;3
+1;Muslim;Muslim Footsoldier;0;0;1;0;1;1;3
+5;Muslim;Muslim Duel Infantry;0;0;1;1;1;1;4
+9;Muslim;Shamshir Infantry;0;0;2;1;2;2;7
+12;Muslim;Muslim Musketeer;2;1;1;2;2;3;11
+15;Muslim;Afsharid Reformed Infantry;3;2;2;2;2;2;13
+23;Muslim;Reformed Muslim Musketeers;1;2;3;3;4;3;16
+26;Muslim;Muslim Mass Infantry;3;4;3;3;3;3;19
+30;Muslim;Muslim Rifle Infantry;3;3;3;3;4;4;20
+1;Mesoamerican;Mesoamerican Spearmen;0;0;1;0;1;1;3
+5;Mesoamerican;American Forest Warriors;0;0;1;1;1;1;4
+5;Mesoamerican;American Hill Warriors;0;0;0;2;1;1;4
+5;Mesoamerican;American Plains Warriors;0;0;1;0;2;1;4
+10;Mesoamerican;Reformed American Hill Warriors;0;0;3;1;2;2;8
+10;Mesoamerican;Reformed American Forest Warriors;0;0;2;2;2;2;8
+10;Mesoamerican;Reformed American Plains Warriors;0;0;1;2;3;2;8
+14;Mesoamerican;American Hill Musketeers;2;1;3;2;2;2;12
+14;Mesoamerican;American Forest Musketeers;2;2;2;2;2;2;12
+14;Mesoamerican;Offensive American Musketeers;2;1;1;2;3;3;12
+19;Mesoamerican;Central American Guerrillas;2;2;2;2;3;3;14
+19;Mesoamerican;American Guerrilla Warfare;3;2;3;2;2;2;14
+26;Mesoamerican;Westernized American Hill Infantry;3;4;2;3;3;4;19
+26;Mesoamerican;Westernized American Plains Infantry;4;3;4;3;3;2;19
+30;Mesoamerican;Westernized Central American Infantry;4;3;3;3;3;4;20
+1;North American;Clubmen;0;0;1;0;1;1;3
+1;North American;Native American Archer;0;0;0;1;1;1;3
+5;North American;Ambush Infantry;0;0;1;0;2;1;4
+5;North American;American Plains Warriors;0;0;1;1;1;1;4
+5;North American;Algonkin Tomahawk Warriors;0;0;0;1;2;1;4
+10;North American;Native American Mountain Warriors;1;1;1;2;2;1;8
+14;North American;Native American Arquebusier;2;2;2;1;3;2;12
+14;North American;Creek Arquebusier;2;2;2;2;2;2;12
+19;North American;Rifle Scout Infantry;3;3;2;2;2;2;14
+26;North American;North American Guerrillas;4;3;2;4;3;3;19
+30;North American;American Westernized Infantry;4;3;3;3;4;3;20
+1;South American;South American Spearmen;0;0;1;1;1;0;3
+1;South American;American Mountain Warriors;0;0;0;1;1;1;3
+5;South American;Reformed Mountain Warriors;0;0;0;2;0;2;4
+5;South American;South American Forest Warriors;0;0;1;1;1;1;4
+5;South American;Incan Slingshots;0;0;2;1;1;0;4
+5;South American;Incan Axemen;0;0;1;0;2;1;4
+10;South American;Defensive American Musketeers;1;1;1;2;1;2;8
+10;South American;South American Arquebusier;1;2;1;1;2;1;8
+14;South American;Reformed American Musketeers;2;2;2;2;2;2;12
+19;South American;Incan Guerrilla;2;3;2;2;2;3;14
+19;South American;South American Guerrilla;2;2;2;2;3;3;14
+26;South American;Westernized South American Infantry;3;4;2;3;3;4;19
+26;South American;Westernized Incan Infantry;4;3;3;3;3;3;19
+30;South American;Reformed Westernized Incan Infantry;4;4;3;3;3;3;20
+1;Nomad;Eastern Archers;0;0;1;1;1;1;4
+9;Nomad;Steppe Raiders;0;0;2;1;1;2;6
+12;Nomad;Steppe Footmen;1;1;2;2;2;2;10
+15;Nomad;Steppe Musketeers;2;1;3;2;2;2;12
+19;Nomad;Steppe Infantry;2;2;3;3;3;2;15
+26;Nomad;Steppe Rifles;2;3;3;3;4;4;19
+30;Nomad;Reformed Steppe Rifles;3;3;3;3;4;4;20
+1;Polynesian;Polynesian Spearmen;0;0;0;1;0;2;3
+5;Polynesian;Polynesian Reformed Spearmen;0;0;1;1;2;2;6
+10;Polynesian;Polynesian Island Warriors;0;0;1;2;2;3;8
+14;Polynesian;Polynesian Arquebusiers;1;2;1;3;2;3;12
+19;Polynesian;Polynesian Riflemen;4;2;3;2;3;2;16
+26;Polynesian;Polynesian Guerrillas;4;3;4;4;4;3;22
+1;Western;Halberd Infantry;0;0;1;0;1;0;2
+1;Western;Latin Medieval Infantry;0;0;0;0;1;1;2
+5;Western;Galloglaigh Infantry;0;0;1;0;2;0;3
+5;Western;Longbow;0;0;1;0;1;1;3
+5;Western;Men at Arms;0;0;0;1;1;1;3
+9;Western;Condotta Infantry;0;0;2;1;1;1;5
+9;Western;Landsknechten Infantry;0;0;1;1;1;2;5
+9;Western;Reformed Galloglaigh Infantry;0;0;2;0;2;1;5
+12;Western;Free Shooter Infantry;1;2;2;1;3;1;10
+12;Western;Tercio Infantry;1;2;1;2;2;2;10
+15;Western;Charge Infantry;1;2;3;1;3;2;12
+15;Western;Maurician Infantry;2;2;2;1;3;2;12
+19;Western;Gustavian Infantry;3;2;3;2;3;2;15
+19;Western;Highlanders Infantry;2;2;3;2;4;2;15
+19;Western;Reformed Tercio;2;2;2;3;3;3;15
+23;Western;Caroline Infantry;3;2;3;2;3;3;16
+23;Western;Grenzer Infantry;2;3;2;3;3;3;16
+23;Western;Line Infantry;3;3;2;2;3;3;16
+26;Western;Blue Coat Infantry;3;3;3;3;4;4;20
+26;Western;Frederickian Infantry;4;3;3;3;4;3;20
+26;Western;Red Coat Infantry;3;4;3;3;4;3;20
+26;Western;White Coat Infantry;4;3;3;3;3;4;20
+28;Western;Impulse Infantry;4;3;3;3;4;4;21
+28;Western;Square Infantry;3;4;3;3;4;4;21
+30;Western;Drill Infantry;4;4;3;3;4;4;22
+30;Western;Jaeger Infantry;4;4;4;3;3;4;22
+30;Western;Mixed Order Infantry;4;3;4;3;4;4;22
+30;Western;Napoleonic Square;4;4;4;3;4;3;22

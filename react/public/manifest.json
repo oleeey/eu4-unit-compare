@@ -1,0 +1,13 @@
+{
+  "short_name": "EU4 Unit Compare",
+  "name": "EU4 Unit Comparing Tool",
+  "icons": [
+    {
+     
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    height: 800px;
+}
+
+#inputForm {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.divSelect {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 600px){
+    #inputForm {
+        flex-direction: column;
+        margin: auto;
+        max-width: 50%;
+    }
+    .Unit:first-of-type {
+        padding-bottom: 30px;
+    }
+
+}
+
+table {
+    margin: 10px auto;
+    border-spacing: 10px;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
