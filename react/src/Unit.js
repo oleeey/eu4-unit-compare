@@ -123,7 +123,7 @@ class Unit extends React.Component {
     /*
     Ich habe "this.props.data" überall durch "[`${this.state.unitType}Data`]" ersetzt, 
     damit die Daten vom ausgewählten "Unit Type" abhängen.
-    Man kann also entweder "Infantry" oder "Cavalry" auswählen.
+    Man kann also entweder "Infantry" oder "Cavalry" auswählen; infData/cavData
     */
 
     getTechList() {
